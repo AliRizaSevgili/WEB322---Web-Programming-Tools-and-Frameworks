@@ -6,11 +6,11 @@
 * 
 *  Name: Ali Riza Sevgili 
    Student ID: 135200228 
-   Date: 
+   Date: 10/30/2024
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://b8f82e89-c506-4035-87f9-be8e8dd1a3ce-00-14y6arligfq4k.janeway.repl.co/
 * 
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/AliRizaSevgili/WEB322---Web-Programming-Tools-and-Frameworks/tree/main/Assignment_3_WEB322
 *
 ********************************************************************************/ 
 
