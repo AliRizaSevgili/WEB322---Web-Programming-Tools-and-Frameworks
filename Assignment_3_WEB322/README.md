@@ -2,11 +2,6 @@
 
 This project is the third assignment for the WEB322 course at Seneca College. The objective of this assignment is to expand upon the foundation laid in Assignment 2 by adding new routes and functionality to handle item addition and data querying. The project utilizes **Node.js**, **Express**, and **Cloudinary** to manage and store data and images.
 
-## Submission Information
-
-- **Due Date**: See BlackBoard for the due date. Late submissions will result in a grade of ZERO.
-- **Assessment Weight**: 9% of the final course grade.
-
 ## Project Overview
 
 This project introduces:
