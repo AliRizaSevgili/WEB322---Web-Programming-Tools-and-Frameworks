@@ -1,22 +1,19 @@
-
-
-
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-
+.main {
+    text-align: left !important;
+    margin-left: 0 !important;
+    padding: 20px !important;
 }
 
-
-h1 {
-    color: #3498db;
-    
+h2.stay-tuned {
+    color: orange !important;
+    text-align: center !important;
+    margin-top: 20px !important;
 }
 
-
-p {
-
-    color: #2ecc71;
+footer {
+    text-align: center !important;
+    background-color: #f8f9fa !important;
+    padding: 15px !important;
+    font-size: 14px !important;
+    color: #555 !important;
 }
