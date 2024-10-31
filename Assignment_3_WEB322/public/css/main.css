@@ -1,0 +1,19 @@
+.main {
+    text-align: left !important;
+    margin-left: 0 !important;
+    padding: 20px !important;
+}
+
+h2.stay-tuned {
+    color: orange !important;
+    text-align: center !important;
+    margin-top: 20px !important;
+}
+
+footer {
+    text-align: center !important;
+    background-color: #f8f9fa !important;
+    padding: 15px !important;
+    font-size: 14px !important;
+    color: #555 !important;
+}
