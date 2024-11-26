@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "category": 1,
+    "postDate": "2023-05-14",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 29.99,
+    "title": "Self-Watering Planter",
+    "body": "Keep your plants hydrated with our innovative self-watering planters, perfect for indoor gardens.",
+    "published": true
+  },
+  {
+    "id": 2,
+    "category": 1,
+    "postDate": "2023-05-15",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 19.99,
+    "title": "Garden Pruning Shears",
+    "body": "Stainless steel pruning shears for precision cutting and shaping of your garden plants.",
+    "published": true
+  },
+  {
+    "id": 3,
+    "category": 2,
+    "postDate": "2023-05-16",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 439.99,
+    "title": "4K Ultra HD Smart TV",
+    "body": "Immerse yourself in stunning visuals with our 4K Ultra HD smart TV, featuring built-in streaming apps.",
+    "published": true
+  },
+  {
+    "id": 4,
+    "category": 2,
+    "postDate": "2023-05-17",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 349.99,
+    "title": "Gaming Laptop",
+    "body": "Powerful laptop built for gaming and high-performance tasks with a dedicated graphics card.",
+    "published": true
+  },
+  {
+    "id": 5,
+    "category": 3,
+    "postDate": "2023-05-18",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 49.99,
+    "title": "Premium Hoodie",
+    "body": "Stay warm and stylish with our premium hoodie, available in various colors.",
+    "published": true
+  },
+  {
+    "id": 6,
+    "category": 3,
+    "postDate": "2023-05-19",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 24.99,
+    "title": "Athletic Shorts",
+    "body": "Comfortable and breathable shorts for all your workout needs.",
+    "published": true
+  },
+  {
+    "id": 7,
+    "category": 4,
+    "postDate": "2023-05-20",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 29.99,
+    "title": "Yoga Ball",
+    "body": "Enhance your core strength with our anti-burst yoga ball, ideal for home workouts.",
+    "published": true
+  },
+  {
+    "id": 8,
+    "category": 4,
+    "postDate": "2023-05-21",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 89.99,
+    "title": "Mountain Bike Helmet",
+    "body": "Stay safe on the trails with this lightweight and durable mountain bike helmet.",
+    "published": true
+  },
+  {
+    "id": 9,
+    "category": 5,
+    "postDate": "2023-05-22",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 19.99,
+    "title": "Cat Toy Set",
+    "body": "Keep your feline friends entertained with this variety pack of cat toys.",
+    "published": true
+  },
+  {
+    "id": 10,
+    "category": 5,
+    "postDate": "2023-05-23",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 49.99,
+    "title": "Pet Carrier Backpack",
+    "body": "Travel with your pet comfortably using this ergonomic pet carrier backpack.",
+    "published": true
+  },
+  {
+    "id": 11,
+    "category": 1,
+    "postDate": "2023-05-24",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 15.99,
+    "title": "Herb Garden Kit",
+    "body": "Grow your own herbs at home with this complete garden kit, perfect for beginners.",
+    "published": true
+  },
+  {
+    "id": 12,
+    "category": 2,
+    "postDate": "2023-05-25",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 59.99,
+    "title": "Wireless Mouse and Keyboard",
+    "body": "Upgrade your workspace with this sleek and responsive wireless mouse and keyboard set.",
+    "published": true
+  },
+  {
+    "id": 13,
+    "category": 3,
+    "postDate": "2023-05-26",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 19.99,
+    "title": "Graphic Socks",
+    "body": "Add some fun to your wardrobe with our colorful and unique graphic socks.",
+    "published": true
+  },
+  {
+    "id": 14,
+    "category": 4,
+    "postDate": "2023-05-27",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 39.99,
+    "title": "Adjustable Dumbbells",
+    "body": "Save space and enhance your workouts with these adjustable dumbbells, perfect for strength training.",
+    "published": true
+  },
+  {
+    "id": 15,
+    "category": 5,
+    "postDate": "2023-05-28",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 29.99,
+    "title": "Dog Grooming Kit",
+    "body": "Keep your dog looking fresh with this all-in-one grooming kit.",
+    "published": true
+  },
+  {
+    "id": 16,
+    "category": 1,
+    "postDate": "2023-05-29",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 89.99,
+    "title": "Patio Heater",
+    "body": "Extend your outdoor evenings with our efficient and stylish patio heater.",
+    "published": true
+  },
+  {
+    "id": 17,
+    "category": 2,
+    "postDate": "2023-05-30",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 119.99,
+    "title": "Bluetooth Soundbar",
+    "body": "Enhance your home theater experience with crisp audio from this Bluetooth soundbar.",
+    "published": true
+  },
+  {
+    "id": 18,
+    "category": 3,
+    "postDate": "2023-05-31",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 29.99,
+    "title": "Silk Scarf",
+    "body": "Add a touch of elegance to your outfit with this luxurious silk scarf.",
+    "published": true
+  },
+  {
+    "id": 19,
+    "category": 4,
+    "postDate": "2023-06-01",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 99.99,
+    "title": "Kayak Paddle",
+    "body": "Lightweight and durable paddle, perfect for both beginners and experienced kayakers.",
+    "published": true
+  },
+  {
+    "id": 20,
+    "category": 5,
+    "postDate": "2023-06-02",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 19.99,
+    "title": "Bird Bath",
+    "body": "Attract beautiful birds to your garden with this elegant bird bath.",
+    "published": true
+  },
+  {
+    "id": 21,
+    "category": 1,
+    "postDate": "2023-06-03",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 29.99,
+    "title": "Outdoor Lantern",
+    "body": "Light up your patio or backyard with our solar-powered outdoor lantern.",
+    "published": true
+  },
+  {
+    "id": 22,
+    "category": 2,
+    "postDate": "2023-06-04",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 349.99,
+    "title": "Smartphone Gimbal",
+    "body": "Capture smooth videos on the go with this high-tech smartphone gimbal.",
+    "published": true
+  },
+  {
+    "id": 23,
+    "category": 3,
+    "postDate": "2023-06-05",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 24.99,
+    "title": "Beanie Hat",
+    "body": "Keep warm during chilly days with this cozy beanie hat, available in multiple colors.",
+    "published": true
+  },
+  {
+    "id": 24,
+    "category": 4,
+    "postDate": "2023-06-06",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 39.99,
+    "title": "Jump Rope",
+    "body": "Take your cardio workouts to the next level with our durable and tangle-free jump rope.",
+    "published": true
+  },
+  {
+    "id": 25,
+    "category": 5,
+    "postDate": "2023-06-07",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 15.99,
+    "title": "Hamster Wheel",
+    "body": "Provide your small pets with hours of fun and exercise with this silent-running hamster wheel.",
+    "published": true
+  },
+  {
+    "id": 26,
+    "category": 1,
+    "postDate": "2023-06-08",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 25.99,
+    "title": "Hanging Planters",
+    "body": "Perfect for displaying your favorite flowers and succulents indoors or outdoors.",
+    "published": true
+  },
+  {
+    "id": 27,
+    "category": 2,
+    "postDate": "2023-06-09",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 69.99,
+    "title": "Portable Projector",
+    "body": "Bring the cinema experience to your home with our compact and easy-to-use portable projector.",
+    "published": true
+  },
+  {
+    "id": 28,
+    "category": 3,
+    "postDate": "2023-06-10",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 39.99,
+    "title": "Canvas Sneakers",
+    "body": "Stylish and comfortable sneakers, perfect for casual wear.",
+    "published": true
+  },
+  {
+    "id": 29,
+    "category": 4,
+    "postDate": "2023-06-11",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 149.99,
+    "title": "Inflatable Paddleboard",
+    "body": "Enjoy a day on the water with our inflatable paddleboard, easy to carry and set up.",
+    "published": true
+  },
+  {
+    "id": 30,
+    "category": 5,
+    "postDate": "2023-06-12",
+    "featureImage": "https://dummyimage.com/200x200/000/fff",
+    "price": 99.99,
+    "title": "Aquarium Starter Kit",
+    "body": "Everything you need to set up a beautiful and thriving aquarium.",
+    "published": true
+  },
+  {
+    "title": "Digging Tools",
+    "price": "45.00",
+    "body": "sdqd",
+    "category": "1",
+    "featureImage": "http://res.cloudinary.com/dnlfdnusx/image/upload/v1729734228/pay7hyixjvi8ku5t3fpk.jpg",
+    "published": false,
+    "id": 31
+  },
+  {
+    "title": "Digging Tools",
+    "price": "45.00 $",
+    "body": " About this item\r\n\r\n    Planting hoe: robust and efficient: helps to complete planting work quickly and easily, saving time and energy.\r\n    Gardening gadgets: durability: stainless steel material has characteristics such as anti- and wear resistance, which can be used for a long time.\r\n    Planting hand cultivator: wide range of application: suitable for family planting, small garden planting, lawn maintenance, etc.\r\n    Steel gardening tools: portable and lightweight: small size, easy to carry, and suitable for outdoor planting.\r\n    Gardening hoe: lightweight and easy to carry: small and exquisite, easy to carry, and convenient for outdoor use.\r\n",
+    "category": "1",
+    "published": true,
+    "featureImage": "http://res.cloudinary.com/dnlfdnusx/image/upload/v1729734280/l9zonur6o6dfgs60cvir.jpg",
+    "id": 32
+  },
+  {
+    "title": "DJI Mini 2 SE, Lightweight and Foldable Mini Camera Drone with 2.7K Video",
+    "price": "359.00 $",
+    "body": " About this item\r\n\r\n    𝗥𝗲𝗴𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆 - No registration or exam is required for a drone weighing less than 249g. Enjoy the fun of flying without the tedious application process and waiting time.\r\n    𝗙𝗹𝘆 𝗟𝗼𝗻𝗴𝗲𝗿 - A 31-min max flight time delivers extended flights and more aerial opportunities. Whether you're exploring, filming, or just having fun, do it with more confidence and peace of mind.\r\n    𝗝𝘂𝘀𝘁 𝗮 𝗙𝗲𝘄 𝗧𝗮𝗽𝘀 𝗳𝗼𝗿 𝗘𝗽𝗶𝗰 𝗜𝗺𝗮𝗴𝗶𝗻𝗴 - The DJI Fly app has easy-to-use shooting templates that allow the drone to automatically fly, record, and generate professional-level videos that can be shared directly on social media.\r\n    𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗧𝗿𝗮𝗻𝘀𝗺𝗶𝘀𝘀𝗶𝗼𝗻 𝗥𝗮𝗻𝗴𝗲 - Get a 10km max transmission range to reliably fly further and capture more. Compared to Wi-Fi, DJI OcuSync is stronger, offering enhanced transmission and improved anti-interference performance.\r\n    𝟯𝟴𝗸𝗽𝗵 (𝗟𝗲𝘃𝗲𝗹 𝟱) 𝗪𝗶𝗻𝗱 𝗥𝗲𝘀𝗶𝘀𝘁𝗮𝗻𝗰𝗲 - DJI Mini 2 SE flies with reliable stability even in winds up to 38kph, letting you fly and capture content with more confidence in more places.\r\n    𝗕𝗲𝗴𝗶𝗻𝗻𝗲𝗿 𝗙𝗿𝗶𝗲𝗻𝗱𝗹𝘆 - With simplified operations, the drone is easy to learn and master quickly, making it ideal for beginners. It has a Return to Home function for added safety, ensuring a worry-free flying experience.\r\n    Note: The DJI RC-N1 cable (lightning connector) is located inside the RC-N1 remote controller.\r\n\r\n    * For your safety, please always check and strictly comply with the latest local laws and regulations before flying.\r\n    Due to platform compatibility issues, the DJI Fly app has been removed from Google Play. To ensure a better product usage experience, please log in to the DJI official website to download the latest version of DJI Fly.\r\n\r\n",
+    "category": "2",
+    "published": "on",
+    "featureImage": "http://res.cloudinary.com/dnlfdnusx/image/upload/v1729741575/dkdybbryiwrcuyw1jrvx.jpg",
+    "id": 33
+  },
+  {
+    "title": "PUFFTECH RELAXED JACKET",
+    "price": "99.90 $",
+    "body": "- High-performance padding made with hollow yarn traps the air for extra warmth.\r\n- Water-repellent finish protects against light rain. *The fabric is coated with a water-repellent agent so the effect lasts. The finish is not permanent.\r\n- Diamond quilting and cocoon silhouette for a casual style.\r\n- Hand-washable for easy care.\r\n- Easy to mix and match with T-shirts and voluminous inner layers.",
+    "category": "3",
+    "published": "on",
+    "featureImage": "",
+    "id": 34
+  },
+  {
+    "title": "PUFFTECH RELAXED JACKET",
+    "price": "99.90 $",
+    "body": "- High-performance padding made with hollow yarn traps the air for extra warmth.\r\n- Water-repellent finish protects against light rain. *The fabric is coated with a water-repellent agent so the effect lasts. The finish is not permanent.\r\n- Diamond quilting and cocoon silhouette for a casual style.\r\n- Hand-washable for easy care.\r\n- Easy to mix and match with T-shirts and voluminous inner layers.",
+    "category": "3",
+    "published": "on",
+    "featureImage": "http://res.cloudinary.com/dnlfdnusx/image/upload/v1730338595/tax303h1stiatf9hiqwl.avif",
+    "id": 35
+  }
+]

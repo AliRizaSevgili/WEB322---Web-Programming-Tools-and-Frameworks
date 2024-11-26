@@ -1,0 +1,33 @@
+{{!-- layout: 'main' --}}
+<div class="container">
+  <h2>Items</h2>
+  <div class="table-responsive">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Item ID</th>
+          <th>Item Name</th>
+          <th>Price</th>
+          <th>Category</th>
+          <th>Published</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each items}}
+        <tr>
+          <td><a href="/item/{{id}}">{{id}}</a></td>
+          <td>{{title}}</td>
+          <td>{{price}}</td>
+          <td>{{category}}</td>
+          <td>{{#if published}}Yes{{else}}No{{/if}}</td>
+        </tr>
+        {{/each}}
+      </tbody>
+    </table>
+  </div>
+  {{#unless items}}
+  <div class="text-center">
+    <strong>No items found.</strong>
+  </div>
+  {{/unless}}
+</div>
