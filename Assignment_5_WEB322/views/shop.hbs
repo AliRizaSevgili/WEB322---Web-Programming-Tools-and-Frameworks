@@ -1,0 +1,76 @@
+{{!-- layout: 'main' --}}
+<div class="container">
+  <article class="row">
+    <section class="main col-md-9">
+      <!-- Case 1: Display a single item -->
+      {{#if data.post}}
+        <div class="row">
+          <div class="col-md-4">
+            <h2>{{data.post.title}}</h2>
+            <img src="{{data.post.featureImage}}" alt="{{data.post.title}}" class="img-fluid" />
+          </div>
+          <div class="col-md-8">
+            <p>{{data.post.body}}</p>
+            <p><strong>Price:</strong> ${{data.post.price}}</p>
+            <p><strong>Category:</strong> {{data.post.category}}</p>
+            <p><strong>Last Updated:</strong> {{#formatDate data.post.itemDate}}{{/formatDate}}</p>
+          </div>
+        </div>
+
+      <!-- Case 2: Display multiple items in a category -->
+      {{else if data.filteredPosts}}
+        <h2>Items in Selected Category</h2>
+        <div class="row">
+          {{#each data.filteredPosts}}
+            <div class="col-md-6">
+              <div class="card mb-3">
+                <img src="{{featureImage}}" class="card-img-top" alt="{{title}}">
+                <div class="card-body">
+                  <h5 class="card-title">{{title}}</h5>
+                  <p class="card-text"><strong>Price:</strong> ${{price}}</p>
+                  <p class="card-text"><strong>Last Updated:</strong> {{#formatDate postDate}}{{/formatDate}}</p>
+                </div>
+              </div>
+            </div>
+          {{/each}}
+        </div>
+
+      <!-- Default case: No items found -->
+      {{else}}
+        <p>No items available for this category.</p>
+      {{/if}}
+    </section>
+
+    <!-- Sidebar with Items and Categories -->
+    <aside class="col-md-3">
+      <div class="items">
+        <h4>Items</h4>
+        <ul>
+          {{#if data.posts}}
+            {{#each data.posts}}
+              <li>
+                <a href="/shop?id={{id}}">{{title}}</a>
+              </li>
+            {{/each}}
+          {{else}}
+            <li>No items available</li>
+          {{/if}}
+        </ul>
+      </div>
+      <div class="categories">
+        <h4>Categories</h4>
+        <ul>
+          {{#if data.categories}}
+            {{#each data.categories}}
+              <li>
+                <a href="/shop?category={{id}}">{{category}}</a>
+              </li>
+            {{/each}}
+          {{else}}
+            <li>No categories available</li>
+          {{/if}}
+        </ul>
+      </div>
+    </aside>
+  </article>
+</div>
