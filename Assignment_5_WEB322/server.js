@@ -24,8 +24,7 @@ const exphbs = require("express-handlebars");
 const app = express();
 const PORT = process.env.PORT || 8080;
 
-const uploaded = await streamUpload(req);
-console.log("Uploaded Image URL:", uploaded.url); // Log ekleyin
+
 
 // Middleware
 app.use(express.static("public"));
