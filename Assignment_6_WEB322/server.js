@@ -8,7 +8,9 @@
 *  Student ID: 135200228 
 *  Date: 12/11/2024
 *
-*  Cyclic Web App URL: /
+*  Cyclic Web App URL: https://b36f2a32-ce2b-415d-81f9-47159a4ca62c-00-2dgtt425jcwgp.janeway.replit.dev/
+                       https://b36f2a32-ce2b-415d-81f9-47159a4ca62c-00-2dgtt425jcwgp.janeway.replit.dev/
+                       https://b36f2a32-ce2b-415d-81f9-47159a4ca62c-00-2dgtt425jcwgp.janeway.replit.dev/
 *  GitHub Repository URL: https://github.com/AliRizaSevgili/WEB322---Web-Programming-Tools-and-Frameworks/tree/main/Assignment_6_WEB322
 ********************************************************************************/
 
